@@ -1,0 +1,26 @@
+name,price,calories,protein,fats,carbs,tag,allergens
+Dal Rice,40,350,12,5,60,veg,none
+Paneer Butter Masala,90,450,18,22,30,veg,dairy
+Chicken Curry,100,500,35,20,15,non-veg,none
+Egg Bhurji,60,300,20,15,10,non-veg,egg
+Aloo Paratha,50,400,8,12,65,veg,gluten
+Curd Rice,45,280,9,6,50,veg,dairy
+Rajma Chawal,55,420,15,7,70,veg,none
+Grilled Chicken,120,380,40,10,5,non-veg,none
+Idli Sambar,35,200,6,2,40,veg,none
+Poha,30,180,4,3,35,veg,none
+Moong Dal Soup,40,150,10,2,22,veg,none
+Banana,15,90,1,0,23,veg,none
+Boiled Egg,20,78,6,5,1,non-veg,egg
+Milk,25,150,8,8,12,veg,dairy
+Mixed Veg Salad,35,80,3,2,14,veg,none
+Upma,40,200,5,6,33,veg,gluten
+Chana Masala,60,380,16,8,55,veg,none
+Fish Curry,110,420,38,16,8,non-veg,fish
+Oats,45,300,10,6,54,veg,gluten
+Tofu Stir Fry,75,250,20,12,10,lactose-free,none
+Sprouts Salad,30,120,9,1,18,veg,none
+Brown Rice,50,360,8,3,75,veg,none
+Lemon Dal,45,300,14,4,48,veg,none
+Vegetable Pulao,65,420,9,10,72,veg,none
+Soya Chunks,55,330,25,5,30,veg,soy
