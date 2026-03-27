@@ -34,6 +34,29 @@ This project solves these issues using algorithm-based optimization instead of g
 7. Health score is calculated  
 8. Final meal plan is displayed  
 
+
+## Project Structure
+
+Budget-Constrained-Meal-Planning-System/
+├── README.md
+├── src/
+│   ├── meal_planner.py       # Main meal planning implementation
+│   ├── budget_tracker.py      # Budget tracking functionalities
+│   ├── data_handler.py        # Handling data input/output
+│   └── user_interface.py      # User interface for the system
+├── data/
+│   ├── recipes.json          # Sample meal recipes data
+│   └── user_data.json        # Sample user data
+├── config/
+│   └── config.yaml           # Build and configuration settings
+├── tests/
+│   ├── test_meal_planner.py  # Unit tests for meal planner
+│   ├── test_budget_tracker.py # Unit tests for budget tracker
+│   └── test_data_handler.py   # Unit tests for data handling
+└── docs/
+    ├── user_guide.md         # User guide for the application
+    └── api_reference.md       # API reference documentation
+
 ---
 
 ## Technologies Used
