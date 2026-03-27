@@ -1,0 +1,41 @@
+name,price,calories,protein,fats,carbs,tag,allergens
+Dal Tadka,60,180,9,4,28,veg,none
+Paneer Butter Masala,120,320,14,18,22,veg,dairy
+Rajma Chawal,80,420,16,6,72,veg,none
+Chole Bhature,100,550,14,22,74,veg,gluten
+Aloo Paratha,50,350,7,14,52,veg,gluten|dairy
+Masala Oats,40,180,6,4,30,veg,gluten
+Boiled Eggs,30,140,12,10,1,non-veg,eggs
+Chicken Curry,150,380,32,14,12,non-veg,none
+Egg Bhurji,60,220,14,14,6,non-veg,eggs|dairy
+Grilled Chicken,130,280,38,8,0,non-veg,none
+Moong Dal Soup,50,160,10,2,26,veg,none
+Idli Sambar,60,220,7,2,44,veg,none
+Dosa,70,250,5,8,42,veg,gluten
+Upma,45,200,5,6,34,veg,gluten
+Poha,40,180,4,5,32,veg,none
+Banana,20,90,1,0,23,veg,none
+Apple,40,80,0,0,21,veg,none
+Peanut Chikki,30,160,5,8,18,veg,peanuts
+Mixed Fruit Bowl,60,120,2,1,28,veg,none
+Buttermilk,25,60,3,2,7,lactose-free,dairy
+Lassi,50,180,6,5,28,veg,dairy
+Green Tea,15,5,0,0,1,veg,none
+Black Coffee,20,10,0,0,2,veg,none
+Sprouts Salad,45,150,10,2,22,veg,none
+Corn Chaat,50,200,5,3,38,veg,none
+Vegetable Pulao,90,380,8,10,62,veg,none
+Chicken Biryani,160,520,28,18,60,non-veg,none
+Egg Fried Rice,100,420,14,14,58,non-veg,eggs|gluten
+Fish Curry,170,320,30,12,10,non-veg,fish
+Tuna Salad,140,210,28,8,4,non-veg,fish
+Soya Chunks Curry,70,280,22,6,28,veg,soy
+Tofu Stir Fry,90,220,16,10,14,veg,soy
+Whole Wheat Roti,20,120,4,2,24,veg,gluten
+Brown Rice,35,220,5,2,46,veg,none
+Dahi,40,120,6,5,9,veg,dairy
+Sattu Drink,35,140,8,2,24,lactose-free,none
+Chana Chaat,55,230,11,4,36,veg,none
+Palak Paneer,110,290,13,16,18,veg,dairy
+Besan Cheela,50,210,10,6,28,veg,gluten
+Peanut Butter Toast,55,310,10,14,36,veg,peanuts|gluten
