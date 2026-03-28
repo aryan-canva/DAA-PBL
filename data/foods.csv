@@ -39,3 +39,502 @@ Chana Chaat,55,230,11,4,36,veg,none
 Palak Paneer,110,290,13,16,18,veg,dairy
 Besan Cheela,50,210,10,6,28,veg,gluten
 Peanut Butter Toast,55,310,10,14,36,veg,peanuts|gluten
+Methi Thepla,45,230,6,8,34,veg,gluten
+Kadhi Pakora,75,280,8,12,36,veg,gluten|dairy
+Baingan Bharta,65,160,4,8,20,veg,none
+Aloo Gobi,60,190,4,6,28,veg,none
+Jeera Rice,50,240,5,4,48,veg,none
+Sambhar,45,130,6,2,20,veg,none
+Rasam,30,60,2,1,10,veg,none
+Pongal,55,280,7,8,44,veg,none
+Rava Idli,55,210,6,4,38,veg,gluten
+Medu Vada,50,220,6,10,28,veg,gluten
+Uttapam,65,240,6,6,38,veg,gluten
+Pesarattu,55,200,8,4,32,veg,none
+Appam,60,220,4,4,42,veg,none
+Puttu,50,200,4,2,42,veg,none
+Kerala Fish Fry,180,290,26,14,8,non-veg,fish
+Prawn Masala,200,310,28,12,14,non-veg,shellfish
+Mutton Curry,220,420,34,22,10,non-veg,none
+Keema Matar,170,380,30,20,14,non-veg,none
+Chicken Tikka,160,260,34,10,4,non-veg,none
+Tandoori Chicken,150,280,36,10,2,non-veg,none
+Egg Curry,90,260,16,14,10,non-veg,eggs
+Omelette,50,180,12,12,2,non-veg,eggs|dairy
+Scrambled Eggs,45,170,12,10,2,non-veg,eggs|dairy
+Egg Salad,70,200,14,12,4,non-veg,eggs
+Chicken Sandwich,120,360,24,12,38,non-veg,gluten|eggs
+Chicken Roll,110,380,22,14,44,non-veg,gluten
+Mutton Keema Roll,160,440,28,18,46,non-veg,gluten
+Fish Fry,160,270,24,12,10,non-veg,fish|gluten
+Prawn Fried Rice,180,440,22,14,60,non-veg,shellfish|eggs|gluten
+Chicken Noodles,130,420,20,12,58,non-veg,gluten|eggs
+Egg Noodles,100,400,14,12,58,non-veg,gluten|eggs
+Veggie Noodles,90,360,8,10,58,veg,gluten|eggs
+Paneer Tikka,130,300,16,18,12,veg,dairy
+Paneer Bhurji,100,280,14,18,10,veg,dairy|eggs
+Shahi Paneer,140,360,14,22,20,veg,dairy
+Paneer Paratha,90,380,12,16,48,veg,gluten|dairy
+Matar Paneer,100,270,12,14,22,veg,dairy
+Kadai Paneer,120,310,14,18,20,veg,dairy
+Paneer Pulao,130,420,14,14,58,veg,dairy
+Chilli Paneer,120,290,14,14,24,veg,dairy|soy
+Dal Makhani,90,310,14,14,36,veg,dairy
+Dal Fry,65,200,10,6,28,veg,none
+Chana Masala,75,280,12,8,40,veg,none
+Rajma,70,360,14,4,64,veg,none
+Lobia Curry,65,240,12,4,38,veg,none
+Moong Dal Tadka,55,180,10,4,26,veg,none
+Arhar Dal,55,190,10,4,28,veg,none
+Urad Dal,60,200,10,4,32,veg,none
+Panchmel Dal,70,220,12,4,32,veg,none
+Vegetable Khichdi,70,280,8,4,52,veg,none
+Moong Dal Khichdi,65,260,10,4,46,veg,none
+Sabudana Khichdi,60,300,4,8,54,veg,peanuts
+Poha Chivda,45,200,5,6,34,veg,peanuts
+Murmura Chivda,35,180,4,4,34,veg,peanuts
+Bhel Puri,50,210,5,4,38,veg,gluten|peanuts
+Pani Puri,45,200,4,4,36,veg,gluten
+Dahi Puri,60,230,6,6,36,veg,gluten|dairy
+Sev Puri,55,220,5,6,36,veg,gluten|peanuts
+Ragda Pattice,80,320,10,10,48,veg,none
+Pav Bhaji,90,400,10,14,60,veg,gluten|dairy
+Misal Pav,80,380,14,10,54,veg,gluten
+Vada Pav,60,320,8,12,48,veg,gluten
+Batata Vada,50,280,6,12,40,veg,gluten
+Sabudana Vada,55,260,4,10,40,veg,peanuts
+Dahi Vada,65,240,8,8,34,veg,dairy|gluten
+Kachori,55,300,6,14,40,veg,gluten
+Samosa,45,260,5,12,36,veg,gluten
+Aloo Tikki,50,230,4,10,34,veg,none
+Bread Pakora,55,280,7,12,38,veg,gluten|eggs
+Pyaz Pakora,45,220,5,10,30,veg,gluten
+Palak Pakora,50,210,6,10,26,veg,gluten
+Paneer Pakora,80,290,12,16,24,veg,dairy|gluten
+Mixed Veg Pakora,55,230,6,10,30,veg,gluten
+Mango Lassi,70,240,6,6,40,veg,dairy
+Rose Lassi,60,200,5,5,34,veg,dairy
+Chaas,25,55,3,2,6,lactose-free,dairy
+Coconut Water,40,45,1,0,10,veg,none
+Lemon Water,15,20,0,0,5,veg,none
+Jaljeera,20,25,0,0,6,veg,none
+Aam Panna,30,70,0,0,18,veg,none
+Sugarcane Juice,30,120,0,0,30,veg,none
+Orange Juice,45,110,1,0,26,veg,none
+Watermelon Juice,35,80,1,0,20,veg,none
+Milk,40,150,8,8,12,veg,dairy
+Toned Milk,35,120,7,5,12,veg,dairy
+Soy Milk,45,130,7,5,14,lactose-free,soy
+Almond Milk,55,60,1,3,8,lactose-free,tree-nuts
+Banana Milkshake,70,260,7,6,46,veg,dairy
+Chocolate Milkshake,80,320,8,10,52,veg,dairy
+Strawberry Milkshake,75,280,7,8,48,veg,dairy
+Curd Rice,60,240,7,5,42,veg,dairy
+Lemon Rice,55,240,4,6,42,veg,none
+Tamarind Rice,55,250,4,6,44,veg,peanuts
+Tomato Rice,55,230,4,5,42,veg,none
+Bisi Bele Bath,80,340,10,10,54,veg,none
+Vangi Bath,75,320,6,10,52,veg,none
+Mango Rice,60,260,4,6,46,veg,none
+Coconut Rice,60,280,4,8,46,veg,none
+Ghee Rice,70,320,4,12,50,veg,dairy
+Puliyodarai,60,260,4,6,44,veg,peanuts
+Avial,70,180,4,10,22,veg,dairy
+Kootu,65,190,6,8,24,veg,none
+Thoran,55,140,3,8,16,veg,none
+Olan,60,130,3,6,18,veg,none
+Erissery,65,200,5,8,28,veg,none
+Kalan,70,200,4,10,24,veg,dairy
+Pulissery,55,150,4,8,18,veg,dairy
+Sambar Rice,70,300,8,4,54,veg,none
+Curd Vada,70,250,8,8,34,veg,dairy|gluten
+Pesala Pappu,60,190,10,3,28,veg,none
+Gongura Pachadi,45,80,2,4,10,veg,none
+Gutti Vankaya,80,200,4,12,22,veg,none
+Dosakaya Pachadi,40,70,1,4,8,veg,none
+Majjiga Pulusu,50,120,4,5,15,veg,dairy
+Pappu Charu,50,130,6,3,18,veg,none
+Pesarapappu Payasam,70,280,8,6,48,veg,dairy
+Halwa,80,380,4,16,60,veg,dairy|gluten
+Kheer,75,320,6,10,56,veg,dairy
+Payasam,70,310,5,10,54,veg,dairy
+Gulab Jamun,60,340,5,12,56,veg,dairy|gluten
+Rasgulla,55,260,5,5,52,veg,dairy
+Sandesh,70,280,7,8,46,veg,dairy
+Mishti Doi,60,260,6,6,46,veg,dairy
+Rajbhog,70,320,6,12,54,veg,dairy
+Jalebi,50,370,2,14,62,veg,gluten
+Balushahi,60,380,4,18,58,veg,dairy|gluten
+Sohan Papdi,55,360,4,14,58,veg,dairy|gluten|tree-nuts
+Petha,40,280,0,0,70,veg,none
+Gajak,45,400,10,18,54,veg,peanuts
+Chikki,35,380,8,14,58,veg,peanuts
+Til Ladoo,50,360,6,14,54,veg,none
+Besan Ladoo,65,380,8,16,56,veg,dairy|gluten
+Motichoor Ladoo,70,390,6,14,62,veg,dairy|gluten
+Coconut Ladoo,55,320,3,14,48,veg,dairy
+Dry Fruit Ladoo,90,420,8,18,58,veg,tree-nuts
+Gajar Halwa,80,360,5,14,58,veg,dairy
+Moong Dal Halwa,90,420,8,18,62,veg,dairy|gluten
+Suji Halwa,65,340,5,14,56,veg,dairy|gluten
+Kaju Katli,100,420,6,18,64,veg,dairy|tree-nuts
+Barfi,80,390,6,14,62,veg,dairy|tree-nuts
+Kalakand,90,380,8,14,60,veg,dairy
+Rabri,90,380,8,14,58,veg,dairy
+Shrikhand,80,360,8,10,60,veg,dairy
+Peda,75,360,6,12,60,veg,dairy
+Mysore Pak,80,430,5,20,62,veg,dairy|gluten
+Rava Ladoo,60,360,6,14,58,veg,dairy|gluten
+Akki Roti,50,200,4,4,38,veg,none
+Bajra Roti,40,200,5,4,36,veg,none
+Makki Roti,45,210,4,4,38,veg,none
+Jowar Roti,40,190,5,3,36,veg,none
+Nachni Roti,45,200,5,4,36,veg,none
+Thalipeeth,55,230,6,6,38,veg,gluten
+Missi Roti,50,230,8,6,36,veg,gluten
+Kulcha,60,280,7,8,46,veg,gluten|dairy
+Naan,65,300,8,8,50,veg,gluten|dairy
+Tandoori Roti,40,160,5,2,30,veg,gluten
+Lachha Paratha,70,340,7,14,50,veg,gluten|dairy
+Stuffed Paratha,80,380,9,16,54,veg,gluten|dairy
+Gobi Paratha,75,360,7,14,52,veg,gluten
+Mooli Paratha,70,340,7,14,50,veg,gluten
+Pyaz Paratha,70,340,6,14,50,veg,gluten
+Dal Paratha,75,360,10,12,52,veg,gluten
+Matar Paratha,75,360,8,12,54,veg,gluten
+Palak Paratha,70,320,8,12,48,veg,gluten
+Methi Paratha,70,330,7,12,50,veg,gluten
+Aloo Methi,65,200,4,8,28,veg,none
+Aloo Palak,65,190,4,8,26,veg,none
+Aloo Matar,65,220,5,8,32,veg,none
+Aloo Gobi Matar,65,210,4,7,30,veg,none
+Aloo Baingan,60,200,4,8,28,veg,none
+Aloo Beans,60,190,4,7,28,veg,none
+Mix Veg,75,190,5,8,26,veg,none
+Navratan Korma,110,310,8,16,36,veg,dairy|tree-nuts
+Veg Jalfrezi,85,200,6,10,24,veg,none
+Veg Handi,95,240,7,12,28,veg,dairy
+Lauki Chana Dal,65,190,9,4,28,veg,none
+Lauki Ki Sabzi,55,120,3,4,18,veg,none
+Karela Sabzi,55,110,3,4,14,veg,none
+Kaddu Ki Sabzi,55,120,3,4,18,veg,none
+Bindi Masala,60,130,3,6,16,veg,none
+Arbi Fry,60,160,3,7,22,veg,none
+Kathal Sabzi,70,180,4,7,26,veg,none
+Malai Kofta,130,380,10,22,34,veg,dairy|tree-nuts
+Veg Cutlet,70,240,6,10,34,veg,gluten
+Aloo Cutlet,60,230,4,10,34,veg,gluten
+Hara Bhara Kabab,80,220,8,10,28,veg,gluten
+Tandoori Soya Chaap,100,280,20,10,24,veg,soy
+Soya Chaap Masala,95,290,20,12,24,veg,soy
+Tofu Tikka,100,240,16,12,14,veg,soy
+Tofu Bhurji,90,230,14,12,12,veg,soy
+Mushroom Masala,90,180,5,10,18,veg,none
+Mushroom Tikka,100,190,6,10,16,veg,none
+Baby Corn Masala,85,160,4,8,20,veg,none
+Sweet Corn Soup,60,130,4,3,22,veg,none
+Tomato Soup,50,100,3,3,16,veg,none
+Spinach Soup,55,90,4,3,12,veg,none
+Lentil Soup,60,150,8,3,24,veg,none
+Carrot Ginger Soup,55,100,2,2,18,veg,none
+Broccoli Soup,60,100,4,3,14,veg,dairy
+Pumpkin Soup,55,110,3,3,18,veg,none
+Chicken Soup,100,180,20,5,10,non-veg,none
+Mutton Soup,130,220,24,8,8,non-veg,none
+Egg Drop Soup,80,140,10,5,10,non-veg,eggs
+Caesar Salad,90,200,8,14,10,veg,dairy|gluten|eggs
+Greek Salad,100,180,6,12,12,veg,dairy
+Garden Salad,60,80,3,4,10,veg,none
+Cucumber Raita,40,90,4,4,8,veg,dairy
+Boondi Raita,50,120,5,5,14,veg,dairy
+Mint Raita,40,90,4,4,10,veg,dairy
+Papad,15,60,3,2,8,veg,gluten
+Pickle,10,30,0,2,4,veg,none
+Pudina Chutney,15,30,1,1,5,veg,none
+Coconut Chutney,25,80,2,6,6,veg,none
+Tomato Chutney,20,50,1,1,10,veg,none
+Chicken Keema,160,360,30,20,10,non-veg,none
+Mutton Keema,190,400,32,24,10,non-veg,none
+Chicken Wings,170,340,28,20,4,non-veg,none
+Chicken 65,160,320,26,16,12,non-veg,eggs|gluten
+Chicken Manchurian,150,310,24,14,18,non-veg,eggs|gluten|soy
+Fish Fingers,160,280,22,12,18,non-veg,fish|gluten|eggs
+Fish Tikka,170,260,28,10,6,non-veg,fish
+Prawn Fry,190,280,26,12,8,non-veg,shellfish|gluten
+Mutton Rogan Josh,220,420,32,22,12,non-veg,none
+Mutton Korma,230,440,32,26,14,non-veg,dairy|tree-nuts
+Mutton Biryani,220,560,32,20,64,non-veg,none
+Prawn Biryani,210,520,28,16,64,non-veg,shellfish
+Fish Biryani,200,500,28,16,62,non-veg,fish
+Egg Biryani,120,480,18,14,64,non-veg,eggs
+Veg Biryani,110,460,10,12,72,veg,none
+Paneer Biryani,150,500,16,16,72,veg,dairy
+Soya Biryani,120,480,18,12,72,veg,soy
+Mushroom Biryani,130,440,10,12,70,veg,none
+Dal Baati Churma,130,580,14,22,80,veg,gluten|dairy
+Gatte Ki Sabzi,100,300,10,12,38,veg,gluten|dairy
+Ker Sangri,90,200,6,8,26,veg,none
+Laal Maas,200,420,32,22,12,non-veg,none
+Bengali Fish Curry,180,310,28,12,12,non-veg,fish|mustard
+Kosha Mangsho,210,430,32,22,14,non-veg,none
+Aloo Posto,75,220,4,12,28,veg,none
+Cholar Dal,70,240,12,8,34,veg,none
+Luchi,60,280,5,12,40,veg,gluten
+Macher Jhol,170,280,26,10,14,non-veg,fish|mustard
+Dimer Dalna,100,260,14,14,14,non-veg,eggs
+Begun Bhaja,60,140,3,8,16,veg,none
+Saag,60,100,5,4,12,veg,none
+Mishti Pulao,80,360,6,8,64,veg,none
+Chhena Poda,80,340,8,12,54,veg,dairy
+Dalma,65,210,10,4,32,veg,none
+Pakhala Bhata,50,200,4,1,42,veg,none
+Santula,60,100,4,4,14,veg,none
+Chicken Chettinad,170,360,30,16,14,non-veg,none
+Mutton Chettinad,210,400,32,20,14,non-veg,none
+Kuzhi Paniyaram,55,200,5,6,32,veg,none
+Kozhukattai,50,190,4,4,36,veg,none
+Adai,60,220,8,5,36,veg,none
+Poriyal,50,100,3,5,12,veg,none
+Kolambu,60,130,5,6,16,veg,none
+Mor Kolambu,55,120,4,6,14,veg,dairy
+Paruppu Payasam,70,300,8,8,52,veg,dairy
+Semiya Payasam,70,290,6,8,50,veg,dairy|gluten
+Paal Payasam,75,310,7,10,52,veg,dairy
+Murukku,40,220,4,10,30,veg,none
+Chakli,40,220,4,10,32,veg,none
+Mathri,45,250,5,12,34,veg,gluten
+Namak Pare,40,240,5,10,34,veg,gluten
+Gujiya,70,340,6,14,52,veg,dairy|gluten
+Puran Poli,75,360,8,10,62,veg,gluten|dairy
+Modak,70,280,4,8,50,veg,none
+Ukdiche Modak,70,270,4,8,50,veg,none
+Amrakhand,80,320,7,8,54,veg,dairy
+Solkadhi,35,60,1,3,8,veg,none
+Masala Chai,20,60,2,2,8,veg,dairy
+Adrak Chai,20,55,2,2,7,veg,dairy
+Elaichi Chai,20,60,2,2,8,veg,dairy
+Sulaimani Chai,15,10,0,0,2,veg,none
+Kahwa,25,15,0,0,3,veg,tree-nuts
+Filter Coffee,25,60,2,2,8,veg,dairy
+Cold Coffee,60,200,6,6,30,veg,dairy
+Greek Yogurt,70,130,12,3,8,veg,dairy
+Hung Curd,60,120,10,4,6,veg,dairy
+Paneer Slice,50,160,10,12,4,veg,dairy
+Cheese Sandwich,90,360,14,14,42,veg,dairy|gluten
+Grilled Cheese Toast,80,320,12,14,38,veg,dairy|gluten
+Avocado Toast,100,280,6,16,28,veg,gluten
+Hummus,70,200,8,12,18,veg,sesame
+Pita Bread,60,280,8,3,54,veg,gluten
+Falafel,90,260,10,12,28,veg,gluten|sesame
+Pasta Arrabiata,110,380,10,10,60,veg,gluten
+Mac and Cheese,120,440,14,18,54,veg,dairy|gluten
+Mushroom Pasta,120,400,10,14,58,veg,dairy|gluten
+Bread Roll,40,200,5,4,36,veg,gluten
+Garlic Bread,60,280,6,10,42,veg,dairy|gluten
+French Toast,65,300,10,12,40,veg,eggs|dairy|gluten
+Pancakes,70,340,8,10,56,veg,eggs|dairy|gluten
+Muesli,55,200,6,4,36,veg,gluten|tree-nuts
+Granola,60,240,5,8,38,veg,gluten|tree-nuts
+Cornflakes,45,160,3,1,34,veg,gluten
+Ragi Porridge,40,160,4,2,32,veg,none
+Daliya,40,160,5,2,30,veg,gluten
+Oatmeal,45,190,6,4,32,veg,gluten
+Quinoa Bowl,100,280,10,5,46,veg,none
+Amaranth Porridge,50,180,6,3,32,veg,none
+Foxtail Millet Khichdi,65,250,8,4,44,veg,none
+Kodo Millet Upma,55,210,6,4,38,veg,none
+Little Millet Pongal,60,240,7,5,42,veg,none
+Papaya,30,60,1,0,15,veg,none
+Mango,50,100,1,0,25,veg,none
+Guava,25,60,2,1,14,veg,none
+Orange,35,70,1,0,16,veg,none
+Pomegranate,60,140,2,1,30,veg,none
+Grapes,50,90,1,0,22,veg,none
+Pear,40,80,0,0,20,veg,none
+Kiwi,60,90,2,1,19,veg,none
+Pineapple,45,80,1,0,20,veg,none
+Strawberry,70,50,1,0,12,veg,none
+Chickoo,40,100,1,1,24,veg,none
+Jamun,35,70,1,0,17,veg,none
+Litchi,55,90,1,0,23,veg,none
+Jackfruit,50,100,2,0,24,veg,none
+Dates,40,280,2,0,74,veg,none
+Raisins,35,300,3,0,79,veg,none
+Walnut,80,660,15,65,14,veg,tree-nuts
+Almond,90,580,21,50,22,veg,tree-nuts
+Cashew,80,560,18,44,30,veg,tree-nuts
+Pistachio,100,570,20,45,28,veg,tree-nuts
+Peanuts,30,570,26,49,16,veg,peanuts
+Sunflower Seeds,50,580,21,51,20,veg,none
+Pumpkin Seeds,60,560,19,49,18,veg,none
+Chia Seeds,70,490,17,31,42,veg,none
+Roasted Chana,35,370,22,6,58,veg,none
+Roasted Makhana,50,350,10,1,76,veg,none
+Roasted Peanuts,30,570,26,49,16,veg,peanuts
+Trail Mix,85,520,12,28,58,veg,tree-nuts|peanuts
+Energy Bar,70,380,10,12,60,veg,gluten|tree-nuts
+Protein Bar,90,380,20,12,44,non-veg,dairy|gluten
+Dark Chocolate,80,550,5,32,60,veg,none
+French Fries,70,340,4,16,46,veg,none
+Sweet Potato Fries,75,320,4,12,50,veg,none
+Nachos,80,380,6,18,52,veg,gluten
+Popcorn,30,150,3,8,18,veg,none
+Bhujia,40,500,13,32,50,veg,gluten
+Moong Dal Namkeen,40,380,14,18,46,veg,none
+Baked Beans,70,140,8,1,26,veg,none
+Edamame,80,120,11,5,10,veg,soy
+Steamed Broccoli,40,55,4,1,10,veg,none
+Boiled Potato,30,120,3,0,28,veg,none
+Roasted Sweet Potato,45,140,2,0,32,veg,none
+Stir Fried Vegetables,65,120,4,5,16,veg,none
+Grilled Vegetables,70,110,4,5,14,veg,none
+Veg Stew,70,160,5,5,24,veg,none
+Chicken Stew,130,240,24,8,14,non-veg,none
+Mutton Stew,170,300,28,12,14,non-veg,none
+Fish Stew,160,240,26,8,12,non-veg,fish
+Dal Soup,55,160,9,3,24,veg,none
+Veg Clear Soup,50,80,3,2,12,veg,none
+Chicken Clear Soup,90,120,16,3,6,non-veg,none
+Nihari,200,460,32,24,18,non-veg,gluten
+Haleem,180,420,28,18,30,non-veg,gluten
+Seekh Kabab,150,320,26,16,10,non-veg,none
+Galouti Kabab,200,360,28,20,12,non-veg,none
+Reshmi Kabab,170,320,28,16,8,non-veg,dairy
+Hariyali Kabab,160,300,28,14,8,non-veg,none
+Dahi Ke Kabab,130,280,12,16,18,veg,dairy|gluten
+Rumali Roti,50,220,5,3,42,veg,gluten
+Mutton Biryani Dum,240,580,34,22,66,non-veg,none
+Tehari,100,460,12,12,72,veg,none
+Sewai,70,320,6,8,58,veg,dairy|gluten
+Sheer Khurma,90,380,7,12,64,veg,dairy|gluten|tree-nuts
+Falooda,90,360,6,8,66,veg,dairy|gluten
+Kulfi,70,280,6,10,44,veg,dairy
+Malai Kulfi,80,320,7,12,50,veg,dairy
+Ice Cream,70,280,4,14,36,veg,dairy
+Vanilla Ice Cream,70,270,4,14,34,veg,dairy
+Mango Ice Cream,70,280,4,12,38,veg,dairy
+Smoothie,80,200,4,2,42,veg,dairy
+Green Smoothie,75,160,4,2,34,veg,none
+Protein Smoothie,100,260,20,4,34,veg,dairy|soy
+Overnight Oats,65,280,10,6,46,veg,gluten|dairy
+Chia Pudding,80,280,8,12,34,veg,dairy
+Moringa Dal,65,190,10,3,28,veg,none
+Drumstick Sabzi,60,110,4,4,14,veg,none
+Amla Juice,25,60,1,0,14,veg,none
+Karela Juice,25,30,1,0,6,veg,none
+Turmeric Milk,35,130,5,5,16,veg,dairy
+Egg White Omelette,55,140,18,3,2,non-veg,eggs
+Chicken Oats Bowl,120,340,28,8,36,non-veg,gluten
+Tuna Sandwich,130,340,24,8,38,non-veg,fish|gluten|eggs
+Salmon Tikka,220,280,30,12,4,non-veg,fish
+Rohu Curry,140,250,24,10,10,non-veg,fish
+Catla Curry,150,260,24,10,10,non-veg,fish
+Pomfret Fry,200,260,26,12,6,non-veg,fish|gluten
+Hilsa Curry,200,320,28,16,8,non-veg,fish|mustard
+Mackerel Fry,140,240,22,12,6,non-veg,fish|gluten
+Soya Milk Kheer,70,260,8,6,44,lactose-free,soy
+Coconut Milk Payasam,80,300,4,14,44,lactose-free,none
+Veg Burger,130,440,12,16,58,veg,gluten|dairy
+Chicken Burger,160,500,28,18,54,non-veg,gluten|eggs|dairy
+Jackfruit Sabzi,75,160,4,5,26,veg,none
+Lotus Stem Sabzi,70,150,3,5,24,veg,none
+Yam Curry,65,180,4,5,28,veg,none
+Raw Papaya Sabzi,55,100,2,4,14,veg,none
+Cluster Beans Sabzi,55,100,4,3,14,veg,none
+Fenugreek Sabzi,60,110,4,4,14,veg,none
+Amaranth Leaves Sabzi,55,90,4,3,12,veg,none
+Colocasia Sabzi,60,130,3,4,22,veg,none
+Aloo Sabzi,55,160,3,5,26,veg,none
+Paneer Lababdar,130,340,14,20,20,veg,dairy
+Paneer Do Pyaza,120,310,13,18,18,veg,dairy
+Dhaba Dal,70,210,11,6,28,veg,none
+Tadka Dal Yellow,65,200,10,5,28,veg,none
+Veg Dum Biryani,120,480,10,14,74,veg,none
+Kofta Biryani,160,520,14,18,74,veg,dairy|gluten
+Chicken Rezala,180,360,30,16,12,non-veg,dairy
+Mughlai Chicken,190,400,32,18,14,non-veg,dairy|tree-nuts
+Chicken Cafreal,170,320,30,14,8,non-veg,none
+Chicken Xacuti,180,360,30,16,14,non-veg,none
+Goan Fish Curry,190,300,28,12,12,non-veg,fish
+Sorpotel,230,480,32,26,18,non-veg,none
+Vindaloo,210,440,30,24,16,non-veg,none
+Egg Vindaloo,150,340,18,18,16,non-veg,eggs
+Prawn Koliwada,200,290,24,12,12,non-veg,shellfish|gluten
+Bombil Fry,160,240,22,10,8,non-veg,fish|gluten
+Kolhapuri Chicken,180,380,30,18,14,non-veg,none
+Chicken Saagwala,170,360,30,16,12,non-veg,none
+Butter Chicken,180,400,32,18,14,non-veg,dairy
+Chicken Afghani,190,380,32,16,12,non-veg,dairy
+Chicken Hariyali,170,340,30,14,10,non-veg,none
+Chicken Kalimirch,170,360,30,16,10,non-veg,dairy
+Chicken Lababdar,180,380,30,18,14,non-veg,dairy
+Chicken Achari,170,360,30,16,12,non-veg,none
+Dahi Chicken,160,340,30,14,10,non-veg,dairy
+Chicken Korma,190,420,30,22,14,non-veg,dairy|tree-nuts
+Andhra Chicken Curry,180,380,30,18,12,non-veg,none
+Chettinad Egg Curry,120,280,16,14,12,non-veg,eggs
+Egg Masala,100,260,14,14,10,non-veg,eggs
+Egg Roast,110,270,14,14,12,non-veg,eggs
+Egg Pepper Fry,100,260,14,12,10,non-veg,eggs
+Bun Omelette,90,320,14,14,28,non-veg,eggs|gluten|dairy
+Akuri,90,240,12,14,8,non-veg,eggs|dairy
+Poro,85,230,12,12,10,non-veg,eggs
+Bheja Fry,200,380,28,22,8,non-veg,none
+Kaleji Masala,190,340,28,18,10,non-veg,none
+Chicken Giblets,170,300,26,16,8,non-veg,none
+Nalli Nihari,220,480,32,26,18,non-veg,gluten
+Anda Curry,100,260,14,14,10,non-veg,eggs
+Mugachi Dal,60,190,10,3,28,veg,none
+Matki Usal,65,200,10,4,30,veg,none
+Hirve Vatane,65,190,9,3,28,veg,none
+Chawli Chi Bhaji,55,100,5,3,14,veg,none
+Chavli Bhaji,55,100,5,3,14,veg,none
+Patodi Rassa,80,240,8,10,30,veg,gluten|dairy
+Vangyacha Bharit,65,160,4,8,20,veg,none
+Bharli Bhendi,70,140,3,8,16,veg,none
+Bharli Vangi,80,180,4,10,22,veg,none
+Kothimbir Vadi,55,210,6,8,28,veg,gluten
+Sabudana Wada,55,260,4,10,40,veg,peanuts
+Batata Bhaji,50,160,3,8,20,veg,none
+Kanda Bhaji,50,200,5,10,26,veg,gluten
+Methi Bhaji,50,100,5,4,12,veg,none
+Shepu Bhaji,50,90,4,3,12,veg,none
+Tambda Rassa,160,320,24,14,14,non-veg,none
+Pandhra Rassa,170,300,24,12,14,non-veg,dairy
+Sukha Mutton,200,380,32,18,8,non-veg,none
+Kombdi Vade,180,460,28,16,46,non-veg,gluten
+Jhunka,55,180,8,6,24,veg,gluten
+Pitla,60,190,8,6,26,veg,gluten
+Thali Peeth,55,230,6,6,36,veg,gluten
+Narali Bhat,70,320,5,10,54,veg,dairy
+Aamras Puri,80,400,7,14,64,veg,gluten
+Shreekhand,80,360,8,10,60,veg,dairy
+Basundi,85,380,8,12,62,veg,dairy
+Puran Poli Sweet,80,380,8,10,64,veg,gluten|dairy
+Kadhi,60,150,5,6,18,veg,dairy|gluten
+Gujarati Dal,60,190,9,4,28,veg,none
+Gujarati Kadhi,65,160,5,6,20,veg,dairy|gluten
+Undhiyu,120,300,8,12,40,veg,none
+Handvo,70,240,8,8,34,veg,gluten
+Khaman Dhokla,50,160,6,4,24,veg,none
+Khandvi,60,180,6,6,24,veg,dairy|gluten
+Fafda,50,240,5,12,30,veg,gluten
+Gathiya,45,240,6,12,28,veg,gluten
+Papdi,45,230,5,10,30,veg,gluten
+Sev,40,490,14,26,60,veg,gluten
+Magas,70,380,8,16,54,veg,dairy|gluten|tree-nuts
+Mohanthal,80,420,8,18,60,veg,dairy|gluten|tree-nuts
+Sukhdi,65,380,6,14,58,veg,dairy|gluten
+Churma Ladoo,80,420,6,16,62,veg,dairy|gluten
+Malpua,65,340,5,12,58,veg,dairy|gluten
+Lapsi,60,300,5,8,54,veg,dairy
+Bajri Khichdi,70,280,8,5,48,veg,none
+Ringan Bateta,65,180,4,8,24,veg,none
+Methi Muthia,60,210,7,7,28,veg,gluten
+Surti Locho,70,220,8,8,28,veg,gluten
+Sev Tameta,65,200,5,8,28,veg,gluten
+Dal Dhokli,80,300,10,8,46,veg,gluten
+Vaghareli Khichdi,75,300,8,8,48,veg,none
+Amiri Khaman,80,200,7,6,28,veg,none
+Makai No Rotlo,45,210,4,4,38,veg,none
+Rasavala Bateta,60,200,4,8,28,veg,none

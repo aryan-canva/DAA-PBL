@@ -15,15 +15,27 @@ static bool canImprove(const vector<Food>& candidates,
                         const Nutrition& current,
                         double budget)
 {
-    // Optimistic: add all remaining items that fit in budget
+    // If no solution found yet, never prune — we need at least one result
+    if (bestScore < 0) return true;
+
+    // Optimistic: add remaining items only if they move us closer to RDA targets.
+    // Without this guard, high budgets cause all items to be added, nutrition
+    // overshoots RDA massively, score tanks, and valid branches get wrongly pruned.
     Nutrition optimistic = current;
     for (int i = index; i < (int)candidates.size(); i++) {
         if (optimistic.price + candidates[i].price <= budget) {
-            optimistic.price    += candidates[i].price;
-            optimistic.calories += candidates[i].calories;
-            optimistic.protein  += candidates[i].protein;
-            optimistic.fats     += candidates[i].fats;
-            optimistic.carbs    += candidates[i].carbs;
+            // Only add if at least one nutrient is still below its RDA target
+            if (optimistic.calories < RDA_CALORIES ||
+                optimistic.protein  < RDA_PROTEIN  ||
+                optimistic.fats     < RDA_FATS     ||
+                optimistic.carbs    < RDA_CARBS)
+            {
+                optimistic.price    += candidates[i].price;
+                optimistic.calories += candidates[i].calories;
+                optimistic.protein  += candidates[i].protein;
+                optimistic.fats     += candidates[i].fats;
+                optimistic.carbs    += candidates[i].carbs;
+            }
         }
     }
     double optimisticScore = calculateHealthScore(optimistic);
