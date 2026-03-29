@@ -130,7 +130,7 @@ Handles evaluation and display.
 ---
 
 ## Project Goal
-To demonstrate how algorithmic techniques like **Backtracking** and **Branch & Bound** can solve real-world optimization problems efficiently.
+To demonstrate how algorithmic techniques like **Backtracking** and **Branch & Bound** can solve real-world optimization problems efficiently.And to create a C++-based meal planning system that uses Backtracking and Branch & Bound to generate cost-effective, nutritionally balanced meal plans based on user constraints.
 
 ---
 
