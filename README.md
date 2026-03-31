@@ -34,6 +34,7 @@ This project solves these issues using algorithm-based optimization instead of g
 7. Health score is calculated  
 8. Final meal plan is displayed  
 
+--- 
 
 ## Technologies Used
 
