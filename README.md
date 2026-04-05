@@ -36,7 +36,7 @@ This project solves these issues using algorithm-based optimization instead of g
 
 --- 
 
-## Technologies Used
+## Technologies Used 
 
 ### C++
 Core programming language used for implementation.
